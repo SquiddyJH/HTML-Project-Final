@@ -1,9 +1,10 @@
 body{
-    background-color: grey;
+    background-color: black;
 }
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     justify-content: center;
+    color: darkred;
 }
