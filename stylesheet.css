@@ -18,11 +18,12 @@ ul{
 .container-navigation{
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
 }
 
 button{
+    background-color: brown;
     border: 1px solid orangered;
     border-radius: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
