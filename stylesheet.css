@@ -48,14 +48,17 @@ button:active{
     margin-top: auto;
 }
 
-.pos{
-    width: 25%;
-    height: 25%;
+.container-image{
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
 }
+
+.pos{
+    width: 25%;
+    height: 25%;
+}
+
 
 a{
     color: black;
