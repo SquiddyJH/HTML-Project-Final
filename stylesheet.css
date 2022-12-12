@@ -59,6 +59,13 @@ button:active{
     height: 25%;
 }
 
+.container-text{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 
 a{
     color: black;
