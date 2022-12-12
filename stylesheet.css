@@ -47,3 +47,7 @@ button:active{
 .push{
     margin-top: auto;
 }
+
+.image{
+    width: 50%;
+}
