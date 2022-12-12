@@ -47,3 +47,32 @@ button:active{
 .push{
     margin-top: auto;
 }
+
+.container-image{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pos{
+    width: 25%;
+    height: 25%;
+}
+
+.container-text{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+a{
+    color: black;
+}
+
+.container-ss{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
