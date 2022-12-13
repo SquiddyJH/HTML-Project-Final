@@ -86,3 +86,11 @@ a{
     align-items: center;
     justify-content: center;
 }
+
+.container-para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
