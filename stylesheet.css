@@ -79,3 +79,8 @@ a{
     align-items: right;
     justify-content: space-evenly;
 }
+
+.typo{
+    width: 50%;
+    height: 50%;
+}
