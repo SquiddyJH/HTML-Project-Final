@@ -83,8 +83,6 @@ a{
 .typo{
     width: 50%;
     height: 50%;
-    align-items: center;
-    justify-content: center;
 }
 
 .container-para{
@@ -93,4 +91,7 @@ a{
     color: white;
     display: flex;
     flex-direction: column;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
 }
