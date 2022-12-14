@@ -108,3 +108,10 @@ a{
     color: white;
     text-align: center;
 }
+
+.final{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: white;
+    text-align: left;
+}
